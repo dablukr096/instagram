@@ -1,0 +1,24 @@
+@use'./button.scss';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+   
+    width: 100%;
+    background-color: #131313;
+    color: whitesmoke;
+    font-family: 'Inter', sans-serif;
+
+}
+
+a{
+    color: #d20c3d;
+    text-decoration: none;
+    
+}
